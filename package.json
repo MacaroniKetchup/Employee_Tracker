@@ -1,0 +1,26 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "An application where you can manage and track your employee / team",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacaroniKetchup/Employee_Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MacaroniKetchup/Employee_Tracker/issues"
+  },
+  "homepage": "https://github.com/MacaroniKetchup/Employee_Tracker#readme",
+  "dependencies": {
+    "inquirer": "^9.1.5",
+    "mysql": "^2.18.1"
+  }
+}
